@@ -1,0 +1,60 @@
+/* Custom styles for the portfolio */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f0f2f5;
+}
+
+/* Custom scrollbar for a more subtle look */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Active nav link style */
+.nav-link.active {
+    color: #3b82f6; /* blue-500 */
+}
+
+/* Timeline styles */
+.timeline-item {
+    position: relative;
+    padding-left: 2.5rem;
+}
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: 0.5rem;
+    top: 0.25rem;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    background-color: #3b82f6; /* blue-500 */
+    border: 2px solid #bfdbfe; /* blue-200 */
+}
+.timeline-item::after {
+    content: '';
+    position: absolute;
+    left: calc(0.5rem + 0.5rem - 1px); /* center of the circle */
+    top: 1.5rem;
+    width: 2px;
+    height: calc(100% - 1rem);
+    background-color: #bfdbfe; /* blue-200 */
+}
+.timeline-item:last-child::after {
+    display: none;
+}
+
+/* Active tab style */
+.tab-btn.active {
+    color: #3b82f6; /* blue-500 */
+    border-bottom: 2px solid #3b82f6;
+}
