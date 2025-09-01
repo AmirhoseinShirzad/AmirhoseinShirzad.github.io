@@ -28,23 +28,6 @@ This is the source code for my personal academic and professional portfolio webs
 -   **Boxicons:** For a rich set of high-quality icons.
 -   **Google Fonts:** For the 'Poppins' typeface.
 
----
-
-### Project Structure
-
-my-portfolio/
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── images/
-│ │ ├── profile.jpg
-│ │ └── bioprocess.png
-│ ├── js/
-│ │ └── script.js
-│ └── Amirhosein_Shirzad_CV.pdf
-│
-├── index.html
-└── README.md
 
 
 ---
@@ -54,8 +37,8 @@ my-portfolio/
 To run this project locally, simply clone the repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/AmirhoseinShirzad/my-portfolio.git
-cd my-portfolio
+git clone https://github.com/AmirhoseinShirzad/AmirhoseinShirzad.github.io.git
+cd AmirhoseinShirzad.github.io
 # Open index.html in your browser
 
 Contact
@@ -63,5 +46,6 @@ LinkedIn: linkedin.com/in/amirhosein-shirzad
 GitHub: @AmirhoseinShirzad
 
 Email: a.shirzad@madares.ac.ir
+
 
 
