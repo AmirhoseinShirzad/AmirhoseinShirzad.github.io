@@ -4,8 +4,7 @@ This is the source code for my personal academic and professional portfolio webs
 
 **Live Demo:** [My Personal Website](https://amirhoseinshirzad.github.io/)
 
-![Portfolio Screenshot](assets/images/screenshot.png) 
-*(Suggestion: Add a screenshot of your finished site and name it `screenshot.png`)*
+![Website live](assets/images/screenShot.JPG) 
 
 ---
 
@@ -64,4 +63,5 @@ LinkedIn: linkedin.com/in/amirhosein-shirzad
 GitHub: @AmirhoseinShirzad
 
 Email: a.shirzad@madares.ac.ir
+
 
