@@ -15,10 +15,10 @@ document.addEventListener('DOMContentLoaded', function() {
             { name: 'MS Office Suite', level: 9 }
         ],
         lab: [
-            { name: 'Fermenter Operation', level: 8 },
+            { name: 'Aseptic Cell Culture (GMP Cleanroom)', level: 8 },
+            { name: 'Fermenter & Single-Use Bioreactor Operation', level: 8 },
             { name: 'Tangential Flow Filtration (TFF)', level: 7 },
-            { name: 'Spectroscopy', level: 8 },
-            { name: 'HPLC', level: 6 }
+            { name: 'Spectroscopy & HPLC', level: 7 }
         ]
     };
 
